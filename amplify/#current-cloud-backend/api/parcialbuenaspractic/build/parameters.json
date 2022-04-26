@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "parcialbuenaspractic",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-parcialbuenaspractic-dev-224039-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/8666c298f2c28ff3bc7179a44fadc846b3fe1271"
+}
