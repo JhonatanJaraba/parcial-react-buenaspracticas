@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 import 'bootswatch/dist/quartz/bootstrap.min.css';
-
+  
 import './firebase'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
