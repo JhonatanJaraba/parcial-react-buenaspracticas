@@ -25,7 +25,7 @@ const Cards = () =>{
     };
 
     const getUser = async () => {
-        /*
+        
         const db1 = firebase.firestore()
           db1.collection('user').onSnapshot((querySnapshot) => {
               const docs = [];
@@ -34,7 +34,7 @@ const Cards = () =>{
             });  
             console.log(docs);
             setUser(docs);
-        });*/
+        });
     };
 
     const onDeleteUser = async (id) => {
