@@ -38,14 +38,14 @@ const Cards = () =>{
     };
 
     const onDeleteUser = async (id) => {
-        /*
+        
         const db2 = firebase.firestore()
         if(window.confirm('are you sure you want to delete this user?')) {
          await db2.collection('user').doc(id).delete();
          toast('Se elimino un usuario', {
             type: 'error'
         });
-        }*/
+        }
     };
 
     useEffect(() => {
